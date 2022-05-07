@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lblNome">Nome</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblTelefone">Telefono</string>
+    <string name="lblFoto">Caminho para foto</string>
+    <string name="lblEditar">Editar</string>
+    <string name="lblApagar">Borrar</string>
+    <string name="lblTelefonar">Call</string>
+    <string name="lblNovo">Nuevo</string>
+
+</resources>

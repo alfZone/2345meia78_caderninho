@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">2345meia78</string>
+    <string name="pin" translatable="false"></string>
+
+    <string name="lblNome">Nome</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblTelefone">Telefone</string>
+    <string name="lblFoto">Caminho para a foto</string>
+    <string name="lblEditar">Editar</string>
+    <string name="lblApagar">Apagar</string>
+    <string name="lblTelefonar">Ligar</string>
+    <string name="lblNovo">Novo</string>
+
+    <string name="lblPIN">PIN</string>
+    <string name="lblPINmsg">Escreva o PIN de acesso à agenda</string>
+    <string name="lblLogin">Login</string>
+
+    <string name="lblSobre">Esta trabalhinho deu-me água pela barba e não merece um 8, nem um 9, merece um 10!</string>
+    <string name="lblCriador">\n\nAntónio Lira Fernandes (alf@esmonserrate.org)</string>
+    <string name="lblVoltar">Voltar à agenda</string>
+    <string name="lblSobreB">Sobre</string>
+
+    <string name="lblAlterarPin">Alterar o PIN</string>
+    <string name="lblPINatual">PIN atual</string>
+    <string name="lblPINnovo">Novo PIN</string>
+    <string name="lblPINconfirma">Confirmação do PIN</string>
+    <string name="lblAlterar">Alterar</string>
+
+    <string name="lblAZ">A..Z</string>
+    <string name="lblZA">Z..A</string>
+</resources>
